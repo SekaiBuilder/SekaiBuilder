@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=900&color=22D3A0&center=true&vCenter=true&width=650&height=50&lines=Francesco+Catania;%24+whoami+%E2%86%92+Full-Stack+Developer+in+training;%24+cat+passion.txt+%E2%86%92+technology+makes+life+better" alt="Francesco Catania" />
+  <img src="https://raw.githubusercontent.com/SekaiBuilder/SekaiBuilder/main/assets/terminal.gif" alt="Francesco Catania — terminal" width="640" />
 </p>
 
 ## `> whoami`
